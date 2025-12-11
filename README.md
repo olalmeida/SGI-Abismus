@@ -50,11 +50,11 @@ A continuación se presentan vistas clave del funcionamiento del sistema en prod
 
 | Gestión de transacciones | Control Logístico |
 |:---:|:---:|
-| <img src="./pruebas/Screenshot 2025-12-11 at 11.42.08 AM.png" width="400" alt="Panel transacciones" /> | <img src="./pruebas/Screenshot 2025-12-11 at 11.42.28 AM.png" width="400" alt="Módulo Logístico" /> |
+| <img src="./pruebas/Screenshot 2025-12-11 at 12.21.54 PM.png" width="400" alt="Panel transacciones" /> | <img src="./pruebas/Screenshot 2025-12-11 at 12.22.04 PM.png" width="400" alt="Módulo Logístico" /> |
 
 | Reportes y Métricas |
 |:---:|
-| <img src="./pruebas/Screenshot 2025-12-11 at 11.42.44 AM.png" width="400" alt="Reportes Financieros" /> |
+| <img src="./pruebas/Screenshot 2025-12-11 at 12.22.26 PM.png" width="400" alt="Reportes Financieros" /> |
 
 
 ---
