@@ -48,6 +48,9 @@ A continuación se presentan vistas clave del funcionamiento del sistema en prod
 |:---:|:---:|
 | <img src="./pruebas/Screenshot 2025-12-11 at 11.41.34 AM.png" width="400" alt="Vista General Dashboard" /> | <img src="./pruebas/Screenshot 2025-12-11 at 11.41.50 AM.png" width="400" alt="Panel de Solicitudes" /> | <img src="./pruebas/Screenshot 2025-12-11 at 11.42.08 AM.png" width="400" alt="Panel transacciones" /> |
 
+| Gestión de transacciones |
+|:---:|:---:|
+| <img src="./pruebas/Screenshot 2025-12-11 at 11.42.08 AM.png" width="400" alt="Panel transacciones" /> |
 
 | Control Logístico | Reportes y Métricas |
 |:---:|:---:|
