@@ -2,7 +2,7 @@
 
 **Rol:** Diseño de Arquitectura, Desarrollo Full-Stack (Módulos Financieros y Logísticos).
 
-## 📈 Resultados Cuantificables (ROI Demostrado)
+## 📈 Resultados Cuantificables
 
 ### Mejora de la Precisión Presupuestaria del 20%
 Implementé un sistema de control de gastos por partida que utiliza lógica programada para detectar y alertar sobre desviaciones. Esto llevó a una mejora del 20% en el acierto presupuestario del equipo, canalizando recursos a áreas estratégicas.
@@ -17,7 +17,7 @@ Reemplacé el proceso manual de reportes en Excel, que consumía tiempo y era pr
 
 ## 🏢 Ecosistema de Gestión Integral
 
-Este sistema actúa como el **sistema operativo central ("Core OS")** para la organización, unificando verticales operativas que tradicionalmente funcionan en silos aislados.
+Este sistema actúa como el **sistema operativo central ** para la organización, unificando verticales operativas que tradicionalmente funcionan en silos aislados.
 
 ### 1. Inteligencia Financiera y Control de "Burn Rate"
 El sistema no es solo un registro pasivo; actúa como un guardián del presupuesto. Diseñé un flujo de validación riguroso:
